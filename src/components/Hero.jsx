@@ -24,6 +24,7 @@ const Hero = () => {
             <span>
               We will help you shape and build your ideal body and live up your
               life to the fullest.
+              {/*25min35s*/}
             </span>
           </div>
         </div>
